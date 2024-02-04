@@ -8,3 +8,4 @@ This set contains questions related to hibernate.
 4. What are the common annotations used in Hibernate?
 5. What is the difference between get() and load() method in Hibernate?
 6. What are different types of Cache available in Hibernate?
+5. Test Question1
