@@ -1,0 +1,12 @@
+Theory Questions (Set-1)
+
+1. Explains OOPs in Java?
+2. What is Immutability? Explain with examples.
+3. What are the difference between Abstract Classes and Interfaces?
+4. Can we create an Object of Abstract Class?
+5. Can we define main method in Abstract Class?
+6. What is Polymorphism in Java?
+7. What are the differences between Overloading and Overriding?
+8. Why method overriding is called as Runtime Polymorphism, why term runtime is used anyway?
+9. What are Checked and Unchecked Exceptions?
+10. What is Reactive Programming?
