@@ -10,3 +10,4 @@ This set contains questions related to hibernate.
 6. What are different types of Cache available in Hibernate?
 7. Test Question1
 8. Test Question2
+9. Test Question2
