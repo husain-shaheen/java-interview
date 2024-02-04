@@ -8,3 +8,4 @@ This set contains questions related to hibernate.
 4. What are the common annotations used in Hibernate?
 5. Test Question1
 6. Test Question2
+7. Test Question3
