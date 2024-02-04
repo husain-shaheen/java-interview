@@ -6,6 +6,5 @@ This set contains questions related to hibernate.
 2. What are the important interfaces in Hibernate?
 3. What is the significance of SessionFactory interface in Hibernate?
 4. What are the common annotations used in Hibernate?
-5. Test Question1
-6. Test Question2
-7. Test Question3
+5. What is the difference between get() and load() method in Hibernate?
+6. What are different types of Cache available in Hibernate?
